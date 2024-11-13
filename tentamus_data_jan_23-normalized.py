@@ -2,7 +2,7 @@
   ### Analyizing sensor resopnse and 
     ### correlating them with the TVBN data
     ### Author: Sadra (Mohammad) Avestan
-    ## January 2022
+    ## Dec 2022
 
 import numpy as np
 import matplotlib.pyplot as plt
