@@ -1,7 +1,7 @@
 #### ___________Freshness sensor algorithm_______________#########
   ### Analyizing sensor resopnse and 
     ### correlating them with the TVBN data
-    ### Author: Sadra (Mohammad) Avestan
+    ### Author: Sadra (Mohammad) Avestan, Feb 2023
 
 import numpy as np
 import matplotlib.pyplot as plt
