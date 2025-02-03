@@ -1,12 +1,12 @@
 this code includes:
 
   reading,\
-  cleaning,
-  removing outliers,
-  replacing missing values,
-  normalizing,
-  fitting with polynomial equations,
-  and visualizing data from measuring TVBN data of steak.
+  cleaning,\
+  removing outliers,\
+  replacing missing values,\
+  normalizing,\
+  fitting with polynomial equations,\
+  and visualizing data from measuring TVBN data of steak.\
   
   the following image is for one of the outputs of the code
 
