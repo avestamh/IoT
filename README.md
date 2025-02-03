@@ -1,6 +1,6 @@
 this code includes:
 
-  reading,
+  reading,\
   cleaning,
   removing outliers,
   replacing missing values,
