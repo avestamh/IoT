@@ -1,5 +1,5 @@
 #### ___________Freshness sensor algorithm_______________#########
-''' Analyizing sensor resopnse and 
+''' Analyzing sensor response and 
     correlating them with the TVBN data of steak. a study to predict dynamic pricing of meat'''
    # Author: Sadra (Mohammad) Avestan
    # Dec 2022
