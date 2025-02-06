@@ -1,8 +1,8 @@
 #### ___________Freshness sensor algorithm_______________#########
-  ### Analyizing sensor resopnse and 
-    ### correlating them with the TVBN data
-    ### Author: Sadra (Mohammad) Avestan
-    ## Dec 2022
+''' Analyizing sensor resopnse and 
+    correlating them with the TVBN data of steak. a study to predict dynamic pricing of meat'''
+   # Author: Sadra (Mohammad) Avestan
+   # Dec 2022
 
 import numpy as np
 import matplotlib.pyplot as plt
